@@ -3,6 +3,12 @@
     <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projetos/HelloReport/util.py" timestamp="1521144272664">
+        <mark key="[" line="53" column="4" />
+        <mark key="]" line="53" column="4" />
+        <mark key="." line="53" column="4" />
+        <mark key="^" line="53" column="4" />
+      </file>
       <file name="$USER_HOME$/Projetos/HelloReport/invoices/models.py" timestamp="1520522848128">
         <mark key="[" line="4" column="12" />
         <mark key="]" line="4" column="12" />
@@ -22,16 +28,16 @@
     <jumps />
     <registers>
       <register name="1" type="8">
-        <text>+
- 
-+
-+
-+
-+
-+
-+</text>
+        <text>el
+el
+el</text>
       </register>
       <register name="&quot;" type="8">
+        <text>el
+el
+el</text>
+      </register>
+      <register name="2" type="8">
         <text>+
  
 +
