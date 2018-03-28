@@ -30,35 +30,50 @@
       <file name="editor.xml" timestamp="1516315347960">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projetos/HelloReport/sales/integration.py" timestamp="1521829967473">
-        <mark key="[" line="27" column="23" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="11" column="0" />
+      <file name="$USER_HOME$/Projetos/HelloReport/sales/integration.py" timestamp="1522243467366">
+        <mark key="[" line="82" column="6" />
+        <mark key="]" line="82" column="6" />
+        <mark key="." line="82" column="6" />
+        <mark key="^" line="72" column="10" />
       </file>
     </filemarks>
     <jumps />
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">cG9ueSA9ICI+PTAuNy4zLDwwLjguMCIK</text>
+      <register name="1" type="8">
+        <text>.
+.
+.
+.
+.
+.
+.</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cG9ueSA9ICI+PTAuNy4zLDwwLjguMCIK</text>
+      <register name="&quot;" type="8">
+        <text>.
+.
+.
+.
+.
+.
+.</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UHlZQU1MID0gIioiCg==</text>
+        <text encoding="base64">cG9ueSA9ICI+PTAuNy4zLDwwLjguMCIK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">UHlZQU1MID0gIioiCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">QmVha2VyID0gIioiCg==</text>
       </register>
-      <register name="4" type="8">
+      <register name="5" type="8">
         <text>ult[
 ult[
 ult[
 ult[
 ult[</text>
       </register>
-      <register name="5" type="8">
+      <register name="6" type="8">
         <text>elif tag == 
     self.res
 elif tag == 
@@ -70,16 +85,16 @@ elif tag ==
 elif tag == 
     self.res</text>
       </register>
-      <register name="6" type="8">
+      <register name="7" type="8">
         <text>, NS
 , NS</text>
       </register>
-      <register name="7" type="8">
+      <register name="8" type="8">
         <text>el
 el
 el</text>
       </register>
-      <register name="8" type="8">
+      <register name="9" type="8">
         <text>+
  
 +
