@@ -15,6 +15,12 @@
         <mark key="." line="35" column="30" />
         <mark key="^" line="53" column="4" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/8929b146-ee15-403b-b98b-a7a4398e8706/console.sql" timestamp="1522331916829">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="13" />
+        <mark key="^" line="16" column="13" />
+        <mark key="." line="16" column="13" />
+      </file>
       <file name="$USER_HOME$/Projetos/HelloReport/invoices/models.py" timestamp="1520522848128">
         <mark key="[" line="4" column="12" />
         <mark key="]" line="4" column="12" />
@@ -30,6 +36,9 @@
       <file name="editor.xml" timestamp="1516315347960">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projetos/HelloReport/integration.sql" timestamp="1522331715490">
+        <mark key="'" line="348" column="12917" />
+      </file>
       <file name="$USER_HOME$/Projetos/HelloReport/sales/integration.py" timestamp="1522243467366">
         <mark key="[" line="82" column="6" />
         <mark key="]" line="82" column="6" />
@@ -37,7 +46,10 @@
         <mark key="^" line="72" column="10" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="0" column="0" filename="$USER_HOME$/Projetos/HelloReport/integration.sql" />
+      <jump line="348" column="12917" filename="$USER_HOME$/Projetos/HelloReport/integration.sql" />
+    </jumps>
     <registers>
       <register name="1" type="8">
         <text>.
