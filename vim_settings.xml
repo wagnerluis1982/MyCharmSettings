@@ -39,6 +39,9 @@
       <file name="$USER_HOME$/Projetos/HelloReport/integration.sql" timestamp="1522331715490">
         <mark key="'" line="348" column="12917" />
       </file>
+      <file name="$USER_HOME$/Projetos/HelloReport/templates/sales/index.html" timestamp="1523367099624">
+        <mark key="'" line="8" column="11" />
+      </file>
       <file name="$USER_HOME$/Projetos/HelloReport/sales/integration.py" timestamp="1522243467366">
         <mark key="[" line="82" column="6" />
         <mark key="]" line="82" column="6" />
@@ -49,9 +52,10 @@
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/Projetos/HelloReport/integration.sql" />
       <jump line="348" column="12917" filename="$USER_HOME$/Projetos/HelloReport/integration.sql" />
+      <jump line="8" column="11" filename="$USER_HOME$/Projetos/HelloReport/templates/sales/index.html" />
     </jumps>
     <registers>
-      <register name="1" type="8">
+      <register name="&quot;" type="8">
         <text>.
 .
 .
@@ -60,7 +64,13 @@
 .
 .</text>
       </register>
-      <register name="&quot;" type="8">
+      <register name="-" type="4">
+        <text>&quot;</text>
+      </register>
+      <register name="/" type="4">
+        <text>\([A-Z].\+\)</text>
+      </register>
+      <register name="1" type="8">
         <text>.
 .
 .
@@ -117,21 +127,25 @@ el</text>
 +</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zb3J0IGk=</text>
-      </register>
-      <register name="-" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">JzwsJz5zL1woW0EtWl0uXCtcKS88dGg+XDE8XC90aD4v</text>
       </register>
     </registers>
     <search>
+      <last-search>\([A-Z].\+\)</last-search>
+      <last-pattern>\([A-Z].\+\)</last-pattern>
+      <last-replace encoding="base64">PHRoPlwxPFwvdGg+</last-replace>
+      <last-substitute>\([A-Z].\+\)</last-substitute>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>\([A-Z].\+\)</entry>
+      </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry encoding="base64">JzwsJz5zb3J0IGk=</entry>
+        <entry encoding="base64">JzwsJz5zL1woW0EtWl0uXCtcKS88dGg+XDE8XC90aD4v</entry>
       </history-cmd>
       <history-expr />
       <history-input />
