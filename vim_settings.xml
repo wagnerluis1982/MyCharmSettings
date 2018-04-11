@@ -39,8 +39,11 @@
       <file name="$USER_HOME$/Projetos/HelloReport/integration.sql" timestamp="1522331715490">
         <mark key="'" line="348" column="12917" />
       </file>
-      <file name="$USER_HOME$/Projetos/HelloReport/templates/sales/index.html" timestamp="1523367099624">
+      <file name="$USER_HOME$/Projetos/HelloReport/templates/sales/index.html" timestamp="1523467200670">
         <mark key="'" line="8" column="11" />
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="14" column="4" />
+        <mark key="." line="14" column="4" />
       </file>
       <file name="$USER_HOME$/Projetos/HelloReport/sales/integration.py" timestamp="1522243467366">
         <mark key="[" line="82" column="6" />
@@ -56,13 +59,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="8">
-        <text>.
-.
-.
-.
-.
-.
-.</text>
+        <text encoding="base64">dGFibGUuaW52b2ljZXMgCnRhYmxlLmludm9pY2VzIAp0YWJsZS5pbnZvaWNlcyA=</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
@@ -71,6 +68,9 @@
         <text>\([A-Z].\+\)</text>
       </register>
       <register name="1" type="8">
+        <text encoding="base64">dGFibGUuaW52b2ljZXMgCnRhYmxlLmludm9pY2VzIAp0YWJsZS5pbnZvaWNlcyA=</text>
+      </register>
+      <register name="2" type="8">
         <text>.
 .
 .
@@ -79,23 +79,23 @@
 .
 .</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">cG9ueSA9ICI+PTAuNy4zLDwwLjguMCIK</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">UHlZQU1MID0gIioiCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">QmVha2VyID0gIioiCg==</text>
       </register>
-      <register name="5" type="8">
+      <register name="6" type="8">
         <text>ult[
 ult[
 ult[
 ult[
 ult[</text>
       </register>
-      <register name="6" type="8">
+      <register name="7" type="8">
         <text>elif tag == 
     self.res
 elif tag == 
@@ -107,24 +107,14 @@ elif tag ==
 elif tag == 
     self.res</text>
       </register>
-      <register name="7" type="8">
+      <register name="8" type="8">
         <text>, NS
 , NS</text>
       </register>
-      <register name="8" type="8">
+      <register name="9" type="8">
         <text>el
 el
 el</text>
-      </register>
-      <register name="9" type="8">
-        <text>+
- 
-+
-+
-+
-+
-+
-+</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1woW0EtWl0uXCtcKS88dGg+XDE8XC90aD4v</text>
