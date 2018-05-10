@@ -6,6 +6,9 @@
   <action id="$Undo">
     <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
+  <action id="ActivatePythonConsoleToolWindow">
+    <keyboard-shortcut first-keystroke="f12" />
+  </action>
   <action id="Back">
     <keyboard-shortcut first-keystroke="alt left" />
   </action>
@@ -55,6 +58,7 @@
   <action id="GotoPreviousError">
     <keyboard-shortcut first-keystroke="alt comma" />
   </action>
+  <action id="JumpToLastWindow" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl page_down" />
   </action>
