@@ -27,7 +27,7 @@
   </action>
   <action id="EditorDuplicate" />
   <action id="EditorDuplicateLines">
-    <keyboard-shortcut first-keystroke="ctrl d" second-keystroke="y" />
+    <keyboard-shortcut first-keystroke="ctrl d" second-keystroke="enter" />
   </action>
   <action id="EditorMoveToPageBottom">
     <keyboard-shortcut first-keystroke="ctrl alt page_down" />
