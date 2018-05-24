@@ -24,23 +24,23 @@
         <mark key="." line="35" column="30" />
         <mark key="^" line="53" column="4" />
       </file>
+      <file name="$USER_HOME$/Projetos/TEM/integration-script/Arquivos-adesao/3122/ADESAO_P3122_20180504_0944.csv" timestamp="1527104863788">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projetos/TEM/integration-script/Arquivos-adesao/3107/ADESAO_P3107_20180504_1045.csv" timestamp="1527104874631">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projetos/HelloReport/invoices/models.py" timestamp="1520522848128">
         <mark key="[" line="4" column="12" />
         <mark key="]" line="4" column="12" />
         <mark key="." line="4" column="12" />
         <mark key="^" line="4" column="12" />
       </file>
-      <file name="$USER_HOME$/Projetos/HelloReport/sales/models.py" timestamp="1520536992083">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-      </file>
-      <file name="editor.xml" timestamp="1516315347960">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projetos/HelloReport/integration.sql" timestamp="1522331715490">
         <mark key="'" line="348" column="12917" />
+      </file>
+      <file name="$USER_HOME$/Projetos/TEM/integration-script/Arquivos-adesao/3146/ADESAO_16042018_041403.csv" timestamp="1527104854328">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projetos/HelloReport/templates/sales/index.html" timestamp="1523467200670">
         <mark key="'" line="8" column="11" />
@@ -48,18 +48,41 @@
         <mark key="]" line="14" column="4" />
         <mark key="." line="14" column="4" />
       </file>
-      <file name="$USER_HOME$/Projetos/HelloReport/sales/integration.py" timestamp="1522243467366">
-        <mark key="[" line="82" column="6" />
-        <mark key="]" line="82" column="6" />
-        <mark key="." line="82" column="6" />
-        <mark key="^" line="72" column="10" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/48e3b06a-ae1e-49c0-b329-2aec7761891b/console_1.sql" timestamp="1526928398997">
         <mark key="'" line="7" column="30" />
         <mark key="[" line="7" column="30" />
         <mark key="]" line="7" column="30" />
         <mark key="." line="7" column="30" />
         <mark key="^" line="7" column="30" />
+      </file>
+      <file name="$USER_HOME$/Projetos/TEM/integration-script/Arquivos-adesao/3069/ADESAO_23082017_063420.csv" timestamp="1527104880212">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projetos/TEM/integration-script/Arquivos-adesao/3115/ADESAO_20161028_091000.csv" timestamp="1527104870869">
+        <mark key="[" line="0" column="204" />
+        <mark key="]" line="0" column="204" />
+        <mark key="." line="0" column="204" />
+      </file>
+      <file name="$USER_HOME$/Projetos/TEM/integration-script/Arquivos-adesao/3069/ADESAO_P3069_16032018_173912.csv" timestamp="1527104877587">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projetos/HelloReport/sales/models.py" timestamp="1520536992083">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projetos/TEM/integration-script/Arquivos-adesao/3115/ADESAO_P3115_20160506_1648.csv" timestamp="1527104866644">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="editor.xml" timestamp="1516315347960">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projetos/HelloReport/sales/integration.py" timestamp="1522243467366">
+        <mark key="[" line="82" column="6" />
+        <mark key="]" line="82" column="6" />
+        <mark key="." line="82" column="6" />
+        <mark key="^" line="72" column="10" />
       </file>
     </filemarks>
     <jumps>
@@ -69,16 +92,22 @@
       <jump line="87" column="15" filename="$USER_HOME$/Projetos/TEM/integration-script/tests/test_integration.py" />
       <jump line="88" column="12" filename="$USER_HOME$/Projetos/TEM/integration-script/tests/test_integration.py" />
       <jump line="7" column="30" filename="$APPLICATION_CONFIG_DIR$/consoles/db/48e3b06a-ae1e-49c0-b329-2aec7761891b/console_1.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projetos/TEM/integration-script/Arquivos-adesao/3146/ADESAO_16042018_041403.csv" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projetos/TEM/integration-script/Arquivos-adesao/3122/ADESAO_P3122_20180504_0944.csv" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projetos/TEM/integration-script/Arquivos-adesao/3115/ADESAO_P3115_20160506_1648.csv" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projetos/TEM/integration-script/Arquivos-adesao/3107/ADESAO_P3107_20180504_1045.csv" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projetos/TEM/integration-script/Arquivos-adesao/3069/ADESAO_P3069_16032018_173912.csv" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projetos/TEM/integration-script/Arquivos-adesao/3069/ADESAO_23082017_063420.csv" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text encoding="base64">IEFTCiBBUwogQVMKIEFTCiBBUwogQVMKIEFTCiBBUwogQVMKIEFTCiBBUwogQVMKIEFTCiBBUwogQVMKIEFTCiBBUwogQVMKIEFTCiBBUwogQVMKIEFTCiBBUwogQVMKIEFTCiBBUwogQVMKIEFTCiBBUwogQVMKIEFTCiBBUwogQVMKIEFT</text>
+      <register name="&quot;" type="4">
+        <text>;00</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>;00</text>
       </register>
       <register name="/" type="4">
-        <text>cat</text>
+        <text>;00$</text>
       </register>
       <register name="1" type="8">
         <text encoding="base64">IEFTCiBBUwogQVMKIEFTCiBBUwogQVMKIEFTCiBBUwogQVMKIEFTCiBBUwogQVMKIEFTCiBBUwogQVMKIEFTCiBBUwogQVMKIEFTCiBBUwogQVMKIEFTCiBBUwogQVMKIEFTCiBBUwogQVMKIEFTCiBBUwogQVMKIEFTCiBBUwogQVMKIEFT</text>
@@ -128,14 +157,14 @@ elif tag ==
 , NS</text>
       </register>
       <register name=":" type="4">
-        <text>s/cat/pig/g</text>
+        <text>%s/;00$//</text>
       </register>
     </registers>
     <search>
-      <last-search>cat</last-search>
-      <last-pattern>cat</last-pattern>
-      <last-replace>pig</last-replace>
-      <last-substitute>cat</last-substitute>
+      <last-search>;00$</last-search>
+      <last-pattern>;00$</last-pattern>
+      <last-replace />
+      <last-substitute>;00$</last-substitute>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
@@ -143,6 +172,7 @@ elif tag ==
       <history-search>
         <entry>\([A-Z].\+\)</entry>
         <entry>cat</entry>
+        <entry>;00$</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
@@ -150,6 +180,7 @@ elif tag ==
         <entry encoding="base64">JzwsJz5zL1woW0EtWl0uXCtcKS88dGg+XDE8XC90aD4v</entry>
         <entry>s/cat/dog/g</entry>
         <entry>s/cat/pig/g</entry>
+        <entry>%s/;00$//</entry>
       </history-cmd>
       <history-expr />
       <history-input />
