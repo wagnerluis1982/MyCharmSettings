@@ -12,12 +12,6 @@
         <mark key="^" line="10" column="25" />
         <mark key="." line="10" column="25" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/8929b146-ee15-403b-b98b-a7a4398e8706/console.sql" timestamp="1522331916829">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="13" />
-        <mark key="^" line="16" column="13" />
-        <mark key="." line="16" column="13" />
-      </file>
       <file name="$USER_HOME$/Projetos/HelloReport/util.py" timestamp="1521740542861">
         <mark key="[" line="35" column="30" />
         <mark key="]" line="35" column="30" />
@@ -54,6 +48,17 @@
         <mark key="]" line="7" column="30" />
         <mark key="." line="7" column="30" />
         <mark key="^" line="7" column="30" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/8929b146-ee15-403b-b98b-a7a4398e8706/console.sql" timestamp="1522331916829">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="13" />
+        <mark key="^" line="16" column="13" />
+        <mark key="." line="16" column="13" />
+      </file>
+      <file name="$USER_HOME$/Projetos/CajuTech/ip-liberator/ip-liberator.conf" timestamp="1536764076671">
+        <mark key="[" line="19" column="17" />
+        <mark key="]" line="19" column="17" />
+        <mark key="." line="19" column="17" />
       </file>
       <file name="$USER_HOME$/Projetos/TEM/integration-script/Arquivos-adesao/3069/ADESAO_23082017_063420.csv" timestamp="1527104880212">
         <mark key="'" line="0" column="0" />
@@ -100,8 +105,9 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projetos/TEM/integration-script/Arquivos-adesao/3069/ADESAO_23082017_063420.csv" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>;00</text>
+      <register name="&quot;" type="8">
+        <text>b69b11e89
+b69b11e89</text>
       </register>
       <register name="-" type="4">
         <text>;00</text>
@@ -110,12 +116,24 @@
         <text>;00$</text>
       </register>
       <register name="1" type="8">
-        <text encoding="base64">IEFTCiBBUwogQVMKIEFTCiBBUwogQVMKIEFTCiBBUwogQVMKIEFTCiBBUwogQVMKIEFTCiBBUwogQVMKIEFTCiBBUwogQVMKIEFTCiBBUwogQVMKIEFTCiBBUwogQVMKIEFTCiBBUwogQVMKIEFTCiBBUwogQVMKIEFTCiBBUwogQVMKIEFT</text>
+        <text>b69b11e89
+b69b11e89</text>
       </register>
       <register name="2" type="8">
-        <text encoding="base64">dGFibGUuaW52b2ljZXMgCnRhYmxlLmludm9pY2VzIAp0YWJsZS5pbnZvaWNlcyA=</text>
+        <text>9
+9</text>
       </register>
       <register name="3" type="8">
+        <text>9a623942b69b11e89
+9ee5e5eab69b11e89</text>
+      </register>
+      <register name="4" type="8">
+        <text encoding="base64">IEFTCiBBUwogQVMKIEFTCiBBUwogQVMKIEFTCiBBUwogQVMKIEFTCiBBUwogQVMKIEFTCiBBUwogQVMKIEFTCiBBUwogQVMKIEFTCiBBUwogQVMKIEFTCiBBUwogQVMKIEFTCiBBUwogQVMKIEFTCiBBUwogQVMKIEFTCiBBUwogQVMKIEFT</text>
+      </register>
+      <register name="5" type="8">
+        <text encoding="base64">dGFibGUuaW52b2ljZXMgCnRhYmxlLmludm9pY2VzIAp0YWJsZS5pbnZvaWNlcyA=</text>
+      </register>
+      <register name="6" type="8">
         <text>.
 .
 .
@@ -124,37 +142,14 @@
 .
 .</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">cG9ueSA9ICI+PTAuNy4zLDwwLjguMCIK</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">UHlZQU1MID0gIioiCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="9" type="2">
         <text encoding="base64">QmVha2VyID0gIioiCg==</text>
-      </register>
-      <register name="7" type="8">
-        <text>ult[
-ult[
-ult[
-ult[
-ult[</text>
-      </register>
-      <register name="8" type="8">
-        <text>elif tag == 
-    self.res
-elif tag == 
-    self.res
-elif tag == 
-    self.res
-elif tag == 
-    self.res
-elif tag == 
-    self.res</text>
-      </register>
-      <register name="9" type="8">
-        <text>, NS
-, NS</text>
       </register>
       <register name=":" type="4">
         <text>%s/;00$//</text>
