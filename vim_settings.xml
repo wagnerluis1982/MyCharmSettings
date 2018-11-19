@@ -3,8 +3,12 @@
     <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projetos/TEM/integration-script/tests/test_integration.py" timestamp="1526664366029">
+      <file name="$USER_HOME$/Projetos/TEM/integration-script/tests/test_integration.py" timestamp="1542648408435">
         <mark key="'" line="88" column="12" />
+        <mark key="[" line="100" column="20" />
+        <mark key="]" line="102" column="20" />
+        <mark key="." line="102" column="20" />
+        <mark key="^" line="102" column="20" />
       </file>
       <file name="$USER_HOME$/Projetos/GDGAjuBot/Pipfile" timestamp="1521989486208">
         <mark key="[" line="10" column="19" />
@@ -186,6 +190,12 @@ b69b11e89</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
