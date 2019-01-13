@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".gitignore-global" type="Git file" />
       <mapping ext="conf" type="JSON" />
+      <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
       <mapping pattern="centos-python36" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
